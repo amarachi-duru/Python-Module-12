@@ -1,0 +1,1 @@
+This project walks through a full analytics lifecycle for a regional organic grocery chain. Starting from synthetically generated data, it produces actionable business intelligence through four analytical layers: descriptive, diagnostic, predictive, and integrated recommendation.
